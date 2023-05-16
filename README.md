@@ -1,5 +1,8 @@
 # (っ◔◡◔)っ ♥ 𝕨𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕘𝕚𝕥𝕙𝕦𝕓❗❗ ♥
 
+Glad you're here!
+![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
+
 ## 👩 About Me:
 - Hi, I’m @becks1723, an aspiring web designer and full-stack software programmer from New York City.
 - I’m interested in creating websites and coding!
