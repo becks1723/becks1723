@@ -11,7 +11,7 @@ Glad you're here!
 - I’m looking to collaborate on Hackathons and any projects in general. I'm always excited to learn and speak with fellow coders. 
 
 ## 🖥️ My Github Stats: 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=becks1723&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/becks1723)](https://git.io/awesome-stats-card)
 
 ## 📫 How to reach me:
 - Email: chenb9@rpi.edu
