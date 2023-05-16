@@ -10,9 +10,6 @@ Glad you're here!
 - I’m currently studying as a dual major in Computer Science, Information Technology and Web Science, with a minor in Graphic Design.
 - I’m looking to collaborate on Hackathons and any projects in general. I'm always excited to learn and speak with fellow coders. 
 
-## 🖥️ My Github Stats: 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/becks1723)](https://git.io/awesome-stats-card)
-
 ## 📫 How to reach me:
 - Email: chenb9@rpi.edu
 - LinkedIn: https://www.linkedin.com/in/becky-chen2332/
